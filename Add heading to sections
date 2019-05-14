@@ -1,0 +1,17 @@
+When adding a new section, it would be really useful to be able to add a heading to that section instead of adding a new one each time. This heading would normally be styled the same (eg the same background colour) so it seems nonsense to have to yet more sections, just for a heading / title.
+
+It would look like this:
+
+
++ NEW SECTION +
+[ --------- Heading / title -------]
+[ --- Content ncolumns as usual -- ]
+
+Instead of:
+
++ NEW SECTION +
+[ --------- Heading / title -------]
++ NEW SECTION +
+[ --- Content ncolumns as usual -- ]
+
+Perhaps with the usual choice - heading for this section - H1, H2, H3, etc
